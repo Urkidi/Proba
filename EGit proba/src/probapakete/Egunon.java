@@ -10,7 +10,7 @@ public class Egunon extends JFrame{
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		JOptionPane.showMessageDialog(null, "Hello world!");
+		JOptionPane.showMessageDialog(null, "urkidirena aldatuta!");
 
 	}
 
