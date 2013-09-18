@@ -1,3 +1,3 @@
-piblic class UrkidiFeo{
+public class UrkidiFeo{
 
 }
